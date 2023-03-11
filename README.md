@@ -1,11 +1,11 @@
-# :dizzy: About Me:
+# About Me:
 I am a software developer, very passionate about Front-End technologies.<br>I am motivated to create convenient, functional, fast, and modern projects.<br>Every day I find inspiration in quality and smart implementations, but I also see imperfections and endless opportunities to improve the experience for users and creators, and I want to find solutions, learn new technologies, and be part of progress.
 
 
-## :mailbox: Socials:
+## Socials:
 [![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nikita-rozkalns) 
 
-# :briefcase: Tech Stack:
+# Tech Stack:
 
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
@@ -27,16 +27,15 @@ I am a software developer, very passionate about Front-End technologies.<br>I am
 [![](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-r-o-s-e&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=nick-r-o-s-e&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nick-r-o-s-e&theme=gruvbox&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nick-r-o-s-e&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nick-r-o-s-e&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
