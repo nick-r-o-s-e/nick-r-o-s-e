@@ -32,10 +32,3 @@ I am a software developer, very passionate about Front-End technologies.<br>I am
 ![](https://github-readme-stats.vercel.app/api?username=nick-r-o-s-e&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nick-r-o-s-e&theme=gruvbox&hide_border=true)<br/>
 
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nick-r-o-s-e&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=nick-r-o-s-e&icon=0&color=3)](https://visitcount.itsvg.in)
-
