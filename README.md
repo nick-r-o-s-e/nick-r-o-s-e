@@ -22,6 +22,7 @@ I am a software developer, very passionate about Front-End technologies.<br>I am
 [![](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 [![](https://skillicons.dev/icons?i=reactivex)](https://rxjs.dev/)
 [![](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
