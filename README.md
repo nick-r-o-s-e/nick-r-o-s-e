@@ -12,6 +12,7 @@ I am a software developer, very passionate about Front-End technologies.<br>I am
 [![](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com//)
 [![](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/)
 [![](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
