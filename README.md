@@ -1,5 +1,7 @@
 # About Me:
-I am a software developer, very passionate about Front-End technologies.<br>I am motivated to create convenient, functional, fast, and modern projects.<br>Every day I find inspiration in quality and smart implementations, but I also see imperfections and endless opportunities to improve the experience for users and creators, and I want to find solutions, learn new technologies, and be part of progress.
+As a full-stack developer I specialize in delivering efficient,
+scalable, robust solutions for both Front-end and Back-end
+systems. I am motivated to create convenient, functional, fast, and modern projects. Every day I find inspiration in quality and smart implementations, but I also see imperfections and endless opportunities to improve the experience for users and creators, and I want to find solutions, learn new technologies, and be part of progress.
 
 
 ## Socials:
